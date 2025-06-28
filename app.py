@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jul 14 22:48:19 2023
-
-@author: ankit
-"""
-
 import numpy as np
 import pickle
 import streamlit as st
@@ -101,7 +94,7 @@ def main():
     st.write(" \n\n\n\n")
     st.markdown("******")
     
-    st.write("Contributor : [Ankit Nainwal](https://github.com/nano-bot01) \n [LinkedIn](https://www.linkedin.com/in/ankit-nainwal1/)")
+    st.write("Contributor : [Ankit Nainwal](https://github.com/Deepakcode607) \n [LinkedIn](https://www.linkedin.com/in/deepak-kumar-a779b424b )")
     
     st.write("\n© 2023 Heart Disease Prediction System. All rights reserved.")
 if __name__ == '__main__':
