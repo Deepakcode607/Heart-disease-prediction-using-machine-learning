@@ -94,7 +94,7 @@ def main():
     st.write(" \n\n\n\n")
     st.markdown("******")
     
-    st.write("Contributor : [Ankit Nainwal](https://github.com/Deepakcode607) \n [LinkedIn](https://www.linkedin.com/in/deepak-kumar-a779b424b )")
+    st.write("Contributor : [Deepak Kumar](https://github.com/Deepakcode607) \n [LinkedIn](https://www.linkedin.com/in/deepak-kumar-a779b424b )")
     
     st.write("\n© 2023 Heart Disease Prediction System. All rights reserved.")
 if __name__ == '__main__':
