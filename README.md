@@ -7,7 +7,7 @@ A Heart Disease Prediction System built on machine learning
 
 This prediction system is based on ECG data on heart diseases of patients
 
-#### What is ECG ??
+#### What is ECG ?
 
 
 <p align="center">
